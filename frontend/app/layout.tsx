@@ -4,9 +4,8 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Personality Predictor',
+  description: 'Analyze personality traits and get predictions based on the Big Five model and personal values. Adjust the sliders to reflect your personality characteristics.'
 }
 
 export default function RootLayout({
