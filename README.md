@@ -139,7 +139,7 @@ The backend provides the following API endpoint:
         ```
 
     *   **Response:**
-        ```json
+        ```json.
         {
           "predicted_role": "Data Scientist"
         }
