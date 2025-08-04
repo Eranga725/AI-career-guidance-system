@@ -144,4 +144,4 @@ The backend provides the following API endpoint:
           "predicted_role": "Data Scientist"
         }
         ```
-      
+      ----
