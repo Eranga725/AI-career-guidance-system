@@ -42,5 +42,4 @@ input_data = pd.DataFrame({
 prediction = model.predict(input_data)
 predicted_role = le.inverse_transform(prediction)
 
-# Print the predicted role
 print(f"Predicted Career Role: {predicted_role[0]}")
